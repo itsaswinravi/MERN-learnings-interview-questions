@@ -53,7 +53,65 @@ Manipulating Real DOM is much slower than manipulating virtual DOM,because nothi
 - It is a class component that extends React.PureComponent instead of React.Component.
 - It is used to improve the performance of the application.
 
-## How do you implement React Routing?
+## 10 How do you implement React Routing?
 -![alt text](image-9.png)
 
 
+### Node.js Interview Questions
+
+## 11 What is Node.js?
+- It is an open-source ,cross platform JavaScript run-time environment that executes JavaScript code outside of a browser.
+- It is used to build scalable network applications.
+- It is perfect for data-intensive real-time applications that run across distributed devices.
+- Node.js based on the V8 JavaScript engine of Google Chrome.it is a virtual machine that compiles JavaScript directly into machine code.
+
+## 12 Where can we use Node.js?
+- web applications
+- Distributed systems
+- Network applications
+
+## 13 What do you understand by the term I/O?
+- I/O stands for input/output.
+- It is the process of transferring data to and from the memory of a computer to the peripheral devices of the computer.
+- Every transfer is an output from one device and an input to another device.Medium can be anything like a disk, a keyboard, a screen, a network connection, etc.
+
+## 14 Difference between front-end and back-end development?
+- Front-end development is the development of the user interface of a website or web application.
+- It is the part of the website that users interact with.
+- It typically includes everything that attributes to the visual and interactive aspects of a site.
+- HTML, CSS, and JavaScript are the core technologies used in front-end development.
+
+- Back-end development is the development of the server side of a website or web application.
+- It constitutes the database, the server, and the application.
+-It generally includes a web server that  communicates with a database to serve requests.
+- Java, Python, Ruby, and PHP are the core technologies used in back-end development.
+
+## 15 What is NPM/
+- NPM stands for Node Package Manager.
+- NPM is responsible for managing and sharing packages and modules for JavaScript.
+- It provides online repositories for node.js packages/modules which are searchable on search.nodejs.org.
+- It is also a command-line utility to interact with said repository that aids in package installation, version management, and dependency management.
+- Modules are like JavaScript libraries that you can be used in a Node.js application to include additional functions.
+- To include a module, use the require() function with the name of the module.![alt text](image-10.png)
+
+## 16 What are modules in Node.js?
+- ![alt text](image-11.png)
+
+## 17 Why is Node.js being preferred over other backend technologies like java and  PHP?
+- It is relatively faster than other backend technologies.
+- Node  package manager has over 50,000 bundies  for at the developers disposal.
+- perfect for real-time applications that require a lot of data streaming.
+- Better synchronization of code between client and server due to same code base.
+- Easy for developers to learn and use as it is a JavaScript libraray.
+
+
+## 18 what is the difference between Node.js and Angular.js?
+- Angular.js is a front-end framework that is used for building single-page applications.
+- It is written in JavaScript and maintained by Google.
+- Used for building single page client side web applications.
+- splits a web application into MVC components.
+
+- Node.js is a server-side environment.
+- It is used for building fast and scalable network applications.
+-It is written in C, C++, and JavaScript and maintained by Joyent.
+-Generates database queries.
