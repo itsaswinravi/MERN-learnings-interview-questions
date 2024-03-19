@@ -34,7 +34,7 @@ Manipulating Real DOM is much slower than manipulating virtual DOM,because nothi
   - Components are the building blocks of any React application and a single app usually consists of multiple components.
   - It splits the user Iterface into independent .reusable pieces that can be processed seperately.
   - A component is essentially a piece of the user interface.
-  ## 7 What is a State in React?How donyou implement it?
+  ## 7 What is a State in React?How do you implement it?
   - A state is an object that stores the values of properties belonging to a component that could change over a period of time.
   - A state can be modified based on the user ation or network  changes.
   -Every time the state of an object changes ,React re-renders the component to the  browser.
@@ -46,7 +46,7 @@ Manipulating Real DOM is much slower than manipulating virtual DOM,because nothi
 - A state holds the data that a component renders on the weppage
 ![alt text](image-6.png)
 - This is how a state is accessed
-## 9 What is a Highe  Order Component and pure component?
+## 9 What is a High  Order Component and pure component?
 - A higher order component is a function that takes a component and returns a new component.
 - It facilitates code reuse and logic sharing among different components.![alt text](image-8.png)
 - A pure component is a component that does not re-renders if the state or props of the component has not changed.
